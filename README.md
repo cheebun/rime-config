@@ -26,10 +26,10 @@ cd rime-config
 rsync -a --exclude='.git' --exclude='fcitx5/' --exclude='README.md' --exclude='LICENSE*' \
   ./ ~/.local/share/fcitx5/rime/
 
-# fcitx5 候选框：Noto Sans CJK SC 10 号字、默认主题，附带玫红主题
+# fcitx5 候选框：Noto Sans CJK SC 10 号字、桃红主题（跟随系统深浅色），另附海棠红主题
 cp fcitx5/conf/classicui.conf ~/.config/fcitx5/conf/
 cp fcitx5/config ~/.config/fcitx5/config   # 清空 fcitx5 的左 Shift 临时切换，避免与 Rime 冲突
-mkdir -p ~/.local/share/fcitx5/themes && cp -r fcitx5/themes/roseo ~/.local/share/fcitx5/themes/
+mkdir -p ~/.local/share/fcitx5/themes && cp -r fcitx5/themes/* ~/.local/share/fcitx5/themes/
 ```
 
 复制完成后重新部署：
@@ -121,9 +121,17 @@ fcitx5 默认把左 Shift 设为「临时切换输入法」，会与 Rime 冲突
 ## 候选框样式（fcitx5）
 
 - 配置文件 `~/.config/fcitx5/conf/classicui.conf`，修改后执行
-  `dbus-send --session --dest=org.fcitx.Fcitx5 /controller org.fcitx.Fcitx.Controller1.ReloadAddonConfig string:classicui` 立即生效
+  `dbus-send --session --dest=org.fcitx.Fcitx5 /controller org.fcitx.Fcitx.Controller1.ReloadAddonConfig string:classicui` 立即生效；
+  候选框没重绘的话用 `fcitx5 -r -d` 重启 fcitx5
 - 字体指定 `Noto Sans CJK SC`，避免中文回退到其他地区的字形
-- 玫红主题：把 `Theme=` 改成 `roseo` 即可启用。它由 `squirrel.custom.yaml` 的 roseo 配色换算而来（鼠须管颜色是 BGR），fcitx5 不支持圆角和编码提示单独着色
+- 桃红 / 海棠红主题：把 `Theme=` 改成对应目录名即可启用。由 `squirrel.custom.yaml` 的 peach、begonia 配色及其暗色版换算而来（鼠须管颜色是 BGR），高亮背景保持透明，只给高亮候选字上色；fcitx5 不支持圆角和编码提示单独着色
+
+  | 主题目录 | 名称 |
+  | --- | --- |
+  | `peach` / `peach-dark` | 桃红（亮 / 暗） |
+  | `begonia` / `begonia-dark` | 海棠红（亮 / 暗） |
+
+  默认 `Theme=peach`、`DarkTheme=peach-dark`、`UseDarkTheme=True`，和鼠须管一样跟随系统深浅色；换海棠红就改成 `begonia` / `begonia-dark`
 - 删除 `classicui.conf` 可恢复 fcitx5 默认
 
 ## 升级白霜
