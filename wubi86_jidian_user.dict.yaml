@@ -1,0 +1,56 @@
+---
+name: wubi86_jidian_user
+version: "2019-01-20"
+last_edit_time: "2021-08-07"
+dict_grouped: true # 词库管理应用识别：标记该码表为分组模式
+
+
+sort: original
+  # 码表的排序方式
+  # by_weight 权重
+  # original 原始顺序
+
+#use_preset_vocabulary: true # 是否引入【八股文】的词频词序
+
+# 格式：字词 键码  权重 （中间是tab，不是空格）
+# '#'开头的只是注释， 注释只能另起一行写，不能在词条后面写
+# `##` 两个 # 开头的会被识别为分组名，其后跟的词条就是该组的内容
+
+...
+## 这是分组名
+分组词条	wxyt
+
+## 来自 cheebun/rime-custom（2026-10-28 合并，已去除错别字和非词条目）
+选单	tfuj
+五种	ggtk
+琴瑟和鸣	ggtk
+下装	ghuf
+畏友	lgdc
+飞砂走石	ndfd
+塞车	pflg
+赢利	yntj
+yyds	yyds
+
+## IT
+组合键	xwqv
+Vivo	vivo
+Oppo	oppo
+紫米	hxoy
+金立	qquu
+
+## 烟
+红双喜	xcfk
+
+## 化妆品
+控油	rpim
+粉底液	oyiy
+眼霜	hvfs
+保湿	wkij
+
+## 明星
+艺人	anww
+沈腾	ipeu
+张小斐	xidj
+贾玲	smgw
+葛优	ajwd
+王洛丹	gimy

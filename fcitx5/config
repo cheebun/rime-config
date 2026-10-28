@@ -1,0 +1,2 @@
+# 清空 fcitx5 的「临时切换输入法」(默认 Shift_L)，让 Shift 只由 Rime 处理中英文切换
+[Hotkey/AltTriggerKeys]

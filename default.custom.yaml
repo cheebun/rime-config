@@ -1,0 +1,17 @@
+patch:
+  schema_list:
+    - schema: rime_frost             # 白霜拼音（全拼）
+    - schema: wubi86_jidian          # 极点五笔86
+    - schema: wubi86_jidian_pinyin   # 五笔拼音混输
+
+  # 白霜的 default.yaml 去掉了以下按键，补回来
+  switcher/hotkeys:
+    - Control+grave
+    - Control+Shift+grave
+    - F4
+  ascii_composer/switch_key/Shift_R: commit_text
+  key_binder/bindings/+:
+    - { when: always, accept: Control+Shift+1, select: .next }
+    - { when: always, accept: Control+Shift+exclam, select: .next }
+    - { when: always, accept: Control+Shift+2, toggle: ascii_mode }
+    - { when: always, accept: Control+Shift+at, toggle: ascii_mode }
