@@ -1,48 +1,89 @@
 patch:
   style:
-    color_scheme: roseo                       # 颜色主题
-    alpha: 1.0                                # 窗口透明度
-    base_offset: 0                            # 文字基线
-    horizontal: true                          # 水平
-    line_spacing: 5                           # 候选词上下间距 (垂直方向生效)
-    inline_preedit: true                      # 单行
-    border_height: 2                          # 边距
-    border_width: 0                           # 边框宽度
-    border_color: 0xffffff                    # 边框颜色
-    corner_radius: 4                          # 候选框圆角大小
-    back_color: 0xF4F4F6                      # 面板背景颜色
-    text_color: 0x000000                      # 拼音面板 - 文字颜色
-    preedit_back_color: 0x364572              # 拼音面板 - 背景颜色
-    hilited_back_color: 0xFFFFFF              # 
-    hilited_text_color: 0x000000              # 拼音高亮
-    candidate_format: "%c. %@ "               # 候选词格式 (%c 序号 / %@ 候选词)
-    font_face: "PingFang SC"                  # 候选面板 - 候选文字 - 字体
-    font_point: 21                            # 候选面板 - 候选文字 - 字体大小
-    label_font_face: "PingFang SC"            # 候选面板 - 序号 - 字体
-    label_font_point: 18                      # 候选面板 - 序号 - 字体大小
-    label_color: 0xaaaaaa                     # 候选面板 - 序号 - 颜色
-    comment_font_face: "PingFang SC"          # 候选面板 - 提示编码 - 字体
-    comment_font_point: 18                    # 候选面板 - 提示编码 - 字体大小
-    comment_text_color: 0xBBCC27              # 候选面板 - 提示编码 - 颜色
-    hilited_corner_radius: 0                  # 候选面板 - 选中候选词 - 圆角大小
-    hilited_candidate_label_color: 0x884F11FA # 候选面板 - 选中候选词 - 序号颜色
-    hilited_candidate_text_color: 0x4F11FA    # 候选面板 - 选中候选词 - 文字颜色
-    hilited_candidate_back_color: 0xEDEDF9    # 候选面板 - 选中候选词 - 背景颜色
-    hilited_comment_text_color: 0xF19C38      # 候选面板 - 选中候选词 - 提示编码颜色
-    candidate_text_color: 0x222222            # 候选面板 - 其它候选词 - 文字颜色
-    spacing: 10
+    color_scheme: begonia
+    color_scheme_dark: begonia_dark            # 跟随系统外观自动切换
+    alpha: 1
+    base_offset: 0
+    candidate_list_layout: linear              # 新版 key，horizontal 已在 Squirrel 1.0.1 移除
+    translucency: false                        # 毛玻璃（需系统支持）
+    shadow_size: 0
+    line_spacing: 4                            # 候选词上下间距（垂直方向生效）
+    inline_preedit: true
+    border_height: 2
+    border_width: 2
+    border_color: 0xffffff
+    corner_radius: 4
+    back_color: 0xF4F4F6
+    text_color: 0x000000
+    preedit_back_color: 0x364572
+    hilited_back_color: 0xFFFFFF
+    hilited_text_color: 0x000000
+    candidate_format: "%c. %@ "
+    font_face: "PingFang SC"
+    font_point: 16
+    label_font_face: "PingFang SC"
+    label_font_point: 14
+    label_color: 0xaaaaaa
+    comment_font_face: "PingFang SC"
+    comment_font_point: 13
+    comment_text_color: 0xBBCC27
+    hilited_corner_radius: 0
+    hilited_candidate_label_color: 0x884F11FA
+    hilited_candidate_text_color: 0x4F11FA
+    hilited_candidate_back_color: 0xEDEDF9
+    hilited_comment_text_color: 0xF19C38
+    candidate_text_color: 0x222222
+    spacing: 8
     text_orientation: horizontal
   preset_color_schemes:
-    roseo: # 玫红字体
-      name: 玫红
-      author: "KyleBing <https://kylebing.cn>"
-      creat_time: "2021-07-26"
+    peach: # 桃红字体，#F47983，无边框、高亮背景近透明
+      name: "桃红（亮）"
+      author: "cheebun <https://github.com/cheebun>"
       back_color: 0xFFFFFF
-      border_color: 0xD6D6D6
-      text_color: 0x000000
-      hilited_text_color: 0x000000
-      hilited_back_color: 0xFFFFFF
-      hilited_candidate_text_color: 0x4F11FA
-      hilited_candidate_back_color: 0xEDEDF9
-      candidate_text_color: 0x000000
-      comment_text_color: 0xBBCC27
+      comment_text_color: 0x5D5D5D
+      hilited_candidate_back_color: 0x008379F4
+      hilited_candidate_text_color: 0x8379F4
+      text_color: 0x424242
+      label_color: 0x424242
+      candidate_text_color: 0x424242
+      hilited_comment_text_color: 0x9C94F6
+      hilited_text_color: 0x8379F4
+    peach_dark: # 桃红字体，#F47983，暗色
+      name: "桃红（暗）"
+      author: "cheebun <https://github.com/cheebun>"
+      border_color: 0x00FFFFFF                 # 透明，避免深色背景上出现白边框
+      comment_text_color: 0xBABABB
+      hilited_candidate_text_color: 0x8379F4
+      text_color: 0xE9E9EA
+      label_color: 0xE9E9EA
+      candidate_text_color: 0xE9E9EA
+      hilited_comment_text_color: 0x6F67CF
+      hilited_text_color: 0x8379F4
+      back_color: 0x40342E
+      hilited_candidate_back_color: 0x00808080
+    begonia: # 海棠红字体，#F03752，无边框、高亮背景近透明
+      name: 海棠红
+      author: "cheebun <https://github.com/cheebun>"
+      back_color: 0xFFFFFF
+      comment_text_color: 0x5D5D5D
+      hilited_candidate_back_color: 0x0075B100
+      hilited_candidate_text_color: 0x5237F0
+      text_color: 0x424242
+      label_color: 0x424242
+      candidate_text_color: 0x424242
+      hilited_comment_text_color: 0x755FF3
+      border_color: 0x00FFFFFF
+      hilited_text_color: 0x5237F0
+    begonia_dark:
+      name: "海棠红（暗）"
+      author: "cheebun <https://github.com/cheebun>"
+      border_color: 0x00FFFFFF                 # 透明，避免深色背景上出现白边框
+      comment_text_color: 0xBABABB
+      hilited_candidate_back_color: 0x0075B100
+      hilited_candidate_text_color: 0x5237F0
+      text_color: 0xE9E9EA
+      label_color: 0xE9E9EA
+      candidate_text_color: 0xE9E9EA
+      hilited_comment_text_color: 0x422CC0
+      hilited_text_color: 0x5237F0
+      back_color: 0x2E2925
