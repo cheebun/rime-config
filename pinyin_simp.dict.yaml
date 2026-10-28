@@ -5904,7 +5904,7 @@ sort: by_weight
 輁	gong	1
 拲	gong	3
 龔	gong	3
-红	gong	3
+红	hong	3
 鞏	gong	3
 塨	gong	4
 幊	gong	5
@@ -17155,7 +17155,7 @@ sort: by_weight
 暗讽	an feng	10
 暗格	an ge	10
 暗合	an ge	10
-暗红	an gong	10
+暗红	an hong	10
 暗沟	an gou	10
 暗鬼	an gui	10
 安国	an guo	10
@@ -20918,7 +20918,7 @@ sort: by_weight
 超度	chao du	10
 炒高	chao gao	10
 炒更	chao geng	10
-潮红	chao gong	10
+潮红	chao hong	10
 超管	chao guan	10
 炒汇	chao hui	10
 炒货	chao huo	10
@@ -21104,7 +21104,7 @@ sort: by_weight
 成凤	cheng feng	10
 诚服	cheng fu	10
 撑杆	cheng gan	10
-橙红	cheng gong	10
+橙红	cheng hong	10
 成规	cheng gui	10
 城郭	cheng guo	10
 城壕	cheng hao	10
@@ -21215,7 +21215,7 @@ sort: by_weight
 敕封	chi feng	10
 斥革	chi ge	10
 齿根	chi gen	10
-赤红	chi gong	10
+赤红	chi hong	10
 吃够	chi gou	10
 耻骨	chi gu	10
 吃瓜	chi gua
@@ -21530,7 +21530,7 @@ sort: by_weight
 船夫	chuan fu	10
 串岗	chuan gang	10
 串供	chuan gong	10
-川红	chuan gong	10
+川红	chuan hong	10
 船工	chuan gong	10
 氚管	chuan guan
 串戏	chuan hu	10
@@ -21650,7 +21650,7 @@ sort: by_weight
 春分	chun fen	10
 纯钢	chun gang	10
 春歌	chun ge	10
-唇红	chun gong	10
+唇红	chun hong	10
 春宫	chun gong	10
 春灌	chun guan	10
 春寒	chun han	10
@@ -21871,8 +21871,8 @@ sort: by_weight
 撺掇	cuan duo	10
 篡夺	cuan duo	10
 窜犯	cuan fan	10
-蹿红	cuan gong	10
-窜红	cuan gong	10
+蹿红	cuan hong	10
+窜红	cuan hong	10
 窜扰	cuan rao	10
 窜入	cuan ru	10
 篡位	cuan wei	20
@@ -22230,8 +22230,8 @@ sort: by_weight
 单杠	dan gang	10
 蛋羹	dan geng	10
 石拱	dan gong	10
-淡红	dan gong	10
-丹红	dan gong	10
+淡红	dan hong	10
+丹红	dan hong	10
 弹弓	dan gong	10
 单句	dan gou	20
 石鼓	dan gu	10
@@ -23956,7 +23956,7 @@ sort: by_weight
 非分	fei fen	20
 肥分	fei fen	10
 非公	fei gong	10
-飞红	fei gong	10
+飞红	fei hong	10
 费工	fei gong	10
 飞归	fei gui	10
 费话	fei hua	10
@@ -24934,14 +24934,14 @@ sort: by_weight
 耕织	geng zhi	10
 庚子	geng zi	10
 供案	gong an	10
-红案	gong an	10
+红案	hong an	10
 拱抱	gong bao	10
 弓背	gong bei	10
 工本	gong ben	10
 工笔	gong bi	10
 拱璧	gong bi	10
 公比	gong bi	10
-红笔	gong bi	10
+红笔	hong bi	10
 工部	gong bu	10
 弓步	gong bu	10
 工残	gong can	10
@@ -24954,7 +24954,7 @@ sort: by_weight
 供词	gong ci	20
 攻错	gong cuo	10
 公担	gong dan	10
-红蛋	gong dan	10
+红蛋	hong dan	10
 宫灯	gong deng	10
 公敌	gong di	20
 公爹	gong die	10
@@ -24969,7 +24969,7 @@ sort: by_weight
 公法	gong fa	10
 工分	gong fen	20
 公愤	gong fen	10
-红粉	gong fen	10
+红粉	hong fen	10
 工蜂	gong feng	10
 贡奉	gong feng	10
 贡赋	gong fu	10
@@ -24980,7 +24980,7 @@ sort: by_weight
 共管	gong guan	10
 功过	gong guo	10
 供果	gong guo	10
-红果	gong guo	10
+红果	hong guo	10
 公海	gong hai	10
 公害	gong hai	10
 公函	gong han	20
@@ -24991,32 +24991,32 @@ sort: by_weight
 工架	gong jia	10
 公假	gong jia	10
 工间	gong jian	10
-红教	gong jiao	10
+红教	hong jiao	10
 共聚	gong ju	10
 共居	gong ju	20
 公举	gong ju	10
 拱圈	gong juan	10
 公决	gong jue	10
-红角	gong jue	10
+红角	hong jue	10
 工卡	gong ka	30
-红客	gong ke	10
+红客	hong ke	10
 公了	gong le	10
 工力	gong li	10
 公厘	gong li	10
 公粮	gong liang	10
 工料	gong liao	10
 公聊	gong liao	10
-红磷	gong lin	10
-红柳	gong liu	10
+红磷	hong lin	10
+红柳	hong liu	10
 公论	gong lun	10
-红绿	gong lv	10
+红绿	hong lv	10
 宫门	gong men	10
 拱门	gong men	10
-红棉	gong mian	10
+红棉	hong mian	10
 宫庙	gong miao	10
 工模	gong mo	10
 巩膜	gong mo	10
-红嫩	gong nen	10
+红嫩	hong nen	10
 弓弩	gong nu	10
 公派	gong pai	10
 公判	gong pan	10
@@ -25035,12 +25035,12 @@ sort: by_weight
 攻取	gong qu	10
 公权	gong quan	10
 宫阙	gong que	10
-红壤	gong rang	10
-红热	gong re	10
+红壤	hong rang	10
+红热	hong re	10
 宫人	gong ren	10
 供认	gong ren	10
 工日	gong ri	10
-红杉	gong sha	10
+红杉	hong sha	10
 共商	gong shang	10
 公设	gong she	10
 供神	gong shen	10
@@ -25052,15 +25052,15 @@ sort: by_weight
 供事	gong shi	10
 攻守	gong shou	10
 公署	gong shu	10
-红树	gong shu	10
+红树	hong shu	10
 贡税	gong shui	10
 恭顺	gong shun	10
 公帑	gong tang	10
-红苕	gong tiao	10
+红苕	hong tiao	10
 恭听	gong ting	10
-红彤	gong tong	10
-红透	gong tou	10
-红土	gong tu	10
+红彤	hong tong	10
+红透	hong tou	10
+红土	hong tu	10
 公推	gong tui	10
 宫外	gong wai	10
 共为	gong wei	10
@@ -25079,9 +25079,9 @@ sort: by_weight
 公畜	gong xu	10
 公选	gong xuan	10
 供血	gong xue	10
-红学	gong xue	10
+红学	hong xue	10
 公演	gong yan	10
-红焰	gong yan	10
+红焰	hong yan	10
 弓腰	gong yao	10
 功业	gong ye	10
 工蚁	gong yi	10
@@ -25092,20 +25092,20 @@ sort: by_weight
 宫苑	gong yuan	10
 共约	gong yue	10
 工运	gong yun	10
-红运	gong yun	10
+红运	hong yun	10
 工贼	gong zei	10
 公债	gong zhai	10
 工长	gong zhang	10
 工致	gong zhi	10
-红轴	gong zhou
+红轴	hong zhou
 共轴	gong zhou	10
 汞柱	gong zhu	10
 恭祝	gong zhu	10
 拱猪	gong zhu	20
-红烛	gong zhu	10
-红砖	gong zhuan
-红装	gong zhuang	10
-红妆	gong zhuang	10
+红烛	hong zhu	10
+红砖	hong zhuan
+红装	hong zhuang	10
+红妆	hong zhuang	10
 供桌	gong zhuo	10
 功罪	gong zui	10
 苟安	gou an	10
@@ -26507,7 +26507,7 @@ sort: by_weight
 画夹	hua ga	10
 画稿	hua gao	10
 化合	hua ge	10
-花红	hua gong	10
+花红	hua hong	10
 画工	hua gong	10
 画供	hua gong	10
 花骨	hua gu	10
@@ -26732,7 +26732,7 @@ sort: by_weight
 荒岛	huang dao	20
 黄灯	huang deng	10
 黄碟	huang die	10
-黄红	huang gong	10
+黄红	huang hong	10
 荒谷	huang gu	10
 黄果	huang guo	10
 蝗害	huang hai	10
@@ -27641,9 +27641,9 @@ sort: by_weight
 奸夫	jian fu	10
 肩扛	jian gang	10
 浅耕	jian geng	10
-浅红	jian gong	10
+浅红	jian hong	10
 见工	jian gong	10
-见红	jian gong	10
+见红	jian hong	10
 简括	jian gua	10
 见惯	jian guan	10
 兼管	jian guan	10
@@ -27848,7 +27848,7 @@ sort: by_weight
 姜戈	jiang ge
 降格	jiang ge	10
 强弓	jiang gong	10
-绛红	jiang gong	10
+绛红	jiang hong	10
 强固	jiang gu	10
 将官	jiang guan	10
 降耗	jiang hao	10
@@ -28851,7 +28851,7 @@ sort: by_weight
 居高	ju gao	10
 车工	ju gong	10
 居功	ju gong	10
-橘红	ju gong	10
+橘红	ju hong	10
 车钩	ju gou	10
 巨贾	ju gu	10
 车管	ju guan	10
@@ -30757,7 +30757,7 @@ sort: by_weight
 六腑	liu fu	10
 流干	liu gan	10
 六根	liu gen	10
-流红	liu gong	10
+流红	liu hong	10
 留归	liu gui	10
 陆海	liu hai	10
 留痕	liu hen	10
@@ -31431,7 +31431,7 @@ sort: by_weight
 美缝	mei feng
 玫枫	mei feng	10
 美格	mei ge	10
-玫红	mei gong	20
+玫红	mei hong	20
 每句	mei gou	10
 媚骨	mei gu	10
 镁光	mei guang	10
@@ -32592,7 +32592,7 @@ sort: by_weight
 挪作	nuo zuo	10
 女宾	nv bin	10
 女厕	nv ce	10
-女红	nv gong	10
+女红	nv hong	10
 女家	nv jia	10
 女将	nv jiang	10
 女校	nv jiao	10
@@ -33208,7 +33208,7 @@ sort: by_weight
 皮筏	pi fa	10
 匹夫	pi fu	10
 披拂	pi fu	10
-披红	pi gong	10
+披红	pi hong	10
 批购	pi gou	10
 披挂	pi gua	10
 僻巷	pi hang	10
@@ -39591,7 +39591,7 @@ sort: by_weight
 肉鸽	rou ge
 糅合	rou ge	10
 揉合	rou ge	10
-肉红	rou gong	10
+肉红	rou hong	10
 肉冠	rou guan	10
 柔光	rou guang	10
 肉桂	rou gui	10
@@ -42059,7 +42059,7 @@ sort: by_weight
 逃遁	tao dun	10
 套服	tao fu	10
 桃符	tao fu	10
-桃红	tao gong	10
+桃红	tao hong	10
 陶罐	tao guan	10
 陶管	tao guan	10
 陶锅	tao guo	10
@@ -55108,7 +55108,7 @@ sort: by_weight
 亡夫	wang fu	10
 网纲	wang gang	10
 王公	wang gong	10
-网红	wang gong	20
+网红	wang hong	20
 罔顾	wang gu	10
 枉顾	wang gu	10
 亡故	wang gu	10
@@ -56617,8 +56617,8 @@ sort: by_weight
 幸而	xing er	10
 省府	xing fu	10
 型钢	xing gang	10
-猩红	xing gong	10
-杏红	xing gong	10
+猩红	xing hong	10
+杏红	xing hong	10
 形骸	xing hai	10
 星汉	xing han	10
 星号	xing hao	20
@@ -59347,10 +59347,10 @@ sort: by_weight
 艳歌	yan ge	10
 沿革	yan ge	10
 延搁	yan ge	10
-艳红	yan gong	10
-胭红	yan gong	10
-殷红	yan gong	10
-嫣红	yan gong	10
+艳红	yan hong	10
+胭红	yan hong	10
+殷红	yan hong	10
+嫣红	yan hong	10
 严管	yan guan	10
 烟鬼	yan gui	10
 烟锅	yan guo	10
@@ -60117,7 +60117,7 @@ sort: by_weight
 银根	yin gen	10
 引颈	yin geng	10
 阴功	yin gong	10
-银红	yin gong	10
+银红	yin hong	10
 阴沟	yin gou	10
 淫棍	yin gun	10
 银汉	yin han	10
@@ -60291,7 +60291,7 @@ sort: by_weight
 营房	ying fang	10
 硬功	ying gong	10
 硬弓	ying gong	10
-映红	ying gong	10
+映红	ying hong	10
 硬骨	ying gu	10
 婴孩	ying hai	10
 硬汉	ying han	10
@@ -61074,7 +61074,7 @@ sort: by_weight
 熨斗	yun dou	20
 云缝	yun feng	10
 云浮	yun fu	10
-晕红	yun gong	10
+晕红	yun hong	10
 云盒	yun he	20
 匀和	yun he	10
 运货	yun huo	10
@@ -61278,7 +61278,7 @@ sort: by_weight
 遭厄	zao e	10
 灶房	zao fang	10
 遭逢	zao feng	10
-枣红	zao gong	10
+枣红	zao hong	10
 造句	zao gou	10
 早婚	zao hun	10
 遭际	zao ji	10
@@ -61622,7 +61622,7 @@ sort: by_weight
 长杆	zhang gan	10
 涨高	zhang gao	10
 长庚	zhang geng	10
-涨红	zhang gong	10
+涨红	zhang hong	10
 章句	zhang gou	10
 掌故	zhang gu	10
 掌骨	zhang gu	10
@@ -62474,7 +62474,7 @@ sort: by_weight
 嘱告	zhu gao	10
 助工	zhu gong	10
 铸工	zhu gong	10
-朱红	zhu gong	10
+朱红	zhu hong	10
 诸公	zhu gong	10
 主公	zhu gong	10
 逐句	zhu gou	10
@@ -69096,7 +69096,7 @@ sort: by_weight
 自甘	zi gan	10
 自给	zi gei	10
 字根	zi gen	10
-紫红	zi gong	10
+紫红	zi hong	10
 自供	zi gong	10
 子句	zi gou	10
 自矜	zi guan	10
@@ -69195,7 +69195,7 @@ sort: by_weight
 总纲	zong gang	10
 总合	zong ge	10
 纵隔	zong ge	10
-棕红	zong gong	10
+棕红	zong hong	10
 总攻	zong gong	10
 总括	zong gua	10
 纵贯	zong guan	10
@@ -76343,7 +76343,7 @@ sort: by_weight
 别着急	bie zhao ji	20
 并不比	bing bu bi	10
 并蒂莲	bing di lian	10
-冰红茶	bing gong cha	10
+冰红茶	bing hong cha	10
 兵工厂	bing gong chang	10
 邴新科	bing xin ke	10
 病恹恹	bing yan yan	10
@@ -76896,12 +76896,12 @@ sort: by_weight
 隔夜菜	ge ye cai
 胳肢窝	ge zhi wo	20
 跟打器	gen da qi	10
-红白事	gong bai shi	10
-红宝书	gong bao shu	30
-红筹股	gong chou gu	10
+红白事	hong bai shi	10
+红宝书	hong bao shu	30
+红筹股	hong chou gu	10
 工读生	gong dou sheng	10
 供给制	gong gei zhi	10
-红褐色	gong he shai	10
+红褐色	hong he shai	10
 共和制	gong he zhi	10
 共价键	gong jia jian	10
 公检法	gong jian fa	10
@@ -76912,19 +76912,19 @@ sort: by_weight
 公民权	gong min quan	10
 工农兵	gong nong bing	10
 弓弩手	gong nu shou	10
-红皮书	gong pi shu	10
-红扑扑	gong pu pu	10
-红旗手	gong qi shou	10
+红皮书	hong pi shu	10
+红扑扑	hong pu pu	10
+红旗手	hong qi shou	10
 工商户	gong shang hu	10
 工商界	gong shang jie	10
 公孙离	gong sun li
 共同社	gong tong she	10
-红彤彤	gong tong tong	10
+红彤彤	hong tong tong	10
 工信部	gong xin bu	20
 工薪族	gong xin zu	10
-红眼病	gong yan bing	10
-红艳艳	gong yan yan	10
-红缨枪	gong ying qiang	10
+红眼病	hong yan bing	10
+红艳艳	hong yan yan	10
+红缨枪	hong ying qiang	10
 公众号	gong zhong hao	20
 龚自珍	gong zi zhen	10
 工作间	gong zuo jian	10
@@ -77426,7 +77426,7 @@ sort: by_weight
 康有为	kang you wei	10
 靠边站	kao bian zhan	10
 靠得住	kao de zhu	10
-烤红薯	kao gong shu
+烤红薯	kao hong shu
 考古学	kao gu xue	10
 可擦写	ke ca xie	10
 克格勃	ke ge bo	10
@@ -77710,11 +77710,11 @@ sort: by_weight
 麦芽糖	mai ya tang	10
 曼德拉	man de la	20
 慢动作	man dong zuo	20
-满江红	man jiang gong	100
+满江红	man jiang hong	100
 慢镜头	man jing tou	10
 慢慢地	man man de	10
-满山红	man shan gong	10
-满堂红	man tang gong	10
+满山红	man shan hong	10
+满堂红	man tang hong	10
 慢腾腾	man teng teng	10
 慢吞吞	man tun tun	10
 曼陀铃	man tuo ling	10
@@ -78055,7 +78055,7 @@ sort: by_weight
 曲线图	qu xian tu	10
 全冰凉	quan bing liang	20
 全合成	quan ge cheng
-全红婵	quan gong chan
+全红婵	quan hong chan
 全画幅	quan hua fu	14
 全键盘	quan jian pan	25
 全身心	quan shen xin	10
@@ -78367,7 +78367,7 @@ sort: by_weight
 随大流	sui da liu	10
 燧人氏	sui ren zhi	10
 随想曲	sui xiang qu	10
-孙红雷	sun gong lei
+孙红雷	sun hong lei
 孙家庄	sun jia zhuang
 孙尚香	sun shang xiang	20
 损益表	sun yi biao	10
@@ -78624,7 +78624,7 @@ sort: by_weight
 吸湿性	xi shi xing	10
 习题集	xi ti ji	10
 吸铁石	xi tie dan	10
-夕阳红	xi yang gong	10
+夕阳红	xi yang hong	10
 西洋画	xi yang hua	10
 西洋镜	xi yang jing	10
 西洋参	xi yang shen	10
@@ -78646,7 +78646,7 @@ sort: by_weight
 夏雨荷	xia yu he
 现代派	xian dai pai	10
 闲工夫	xian gong fu	20
-鲜红色	xian gong shai	10
+鲜红色	xian hong shai	10
 现行犯	xian hang fan	10
 先行官	xian hang guan	10
 弦乐队	xian le dui	10
@@ -78685,7 +78685,7 @@ sort: by_weight
 消防队	xiao fang dui	10
 消防栓	xiao fang shuan	10
 小飞侠	xiao fei xia	10
-小红书	xiao gong shu
+小红书	xiao hong shu
 小姑父	xiao gu fu
 消火栓	xiao huo shuan	10
 小姐姐	xiao jie jie	20
@@ -78743,7 +78743,7 @@ sort: by_weight
 心眼子	xin yan zi	20
 新一代	xin yi dai	10
 新泽西	xin ze xi	10
-猩红热	xing gong re	10
+猩红热	xing hong re	10
 性饥渴	xing ji ke	10
 性解放	xing jie fang	10
 省市区	xing shi qu	10
@@ -78776,7 +78776,7 @@ sort: by_weight
 薛定谔	xue ding e	10
 雪花膏	xue hua gao	10
 血泪史	xue lei shi	10
-雪里红	xue li gong	10
+雪里红	xue li hong	10
 学前班	xue qian ban	20
 学徒工	xue tu gong	10
 雪野湖	xue ye hu
@@ -78819,7 +78819,7 @@ sort: by_weight
 阎王爷	yan wang ye	10
 艳阳天	yan yang tian	10
 燕尾服	yan yi fu	10
-胭脂红	yan zhi gong	10
+胭脂红	yan zhi hong	10
 眼中钉	yan zhong ding	10
 演奏家	yan zou jia	10
 样板戏	yang ban hu	10
@@ -78897,7 +78897,7 @@ sort: by_weight
 一盘棋	yi pan qi	10
 一批批	yi pi pi	10
 一篇篇	yi pian pian	10
-一品红	yi pin gong	10
+一品红	yi pin hong	10
 一神教	yi shen jiao	10
 异体字	yi ti zi	10
 一条心	yi tiao xin	10
@@ -87581,7 +87581,7 @@ sort: by_weight
 察言观色	cha yan guan shai	10
 差之毫厘	cha zhi hao li	10
 搽脂抹粉	cha zhi ma fen	10
-姹紫嫣红	cha zi yan gong	10
+姹紫嫣红	cha zi yan hong	10
 拆东补西	chai dong bu xi	10
 豺狼当道	chai lang dang dao	10
 豺狼虎豹	chai lang hu bao	10
@@ -87668,7 +87668,7 @@ sort: by_weight
 乘虚而入	cheng xu er ru	20
 惩一儆百	cheng yi jing bai	10
 成竹在胸	cheng zhu zai xiong	10
-齿白唇红	chi bai chun gong	10
+齿白唇红	chi bai chun hong	10
 吃饱穿暖	chi bao chuan nuan	10
 吃饱喝足	chi bao he zu	10
 持币观望	chi bi guan wang	10
@@ -87801,7 +87801,7 @@ sort: by_weight
 春风风人	chun feng feng ren	10
 春风满面	chun feng man mian	10
 春风一度	chun feng yi du	10
-唇红齿白	chun gong chi bai	10
+唇红齿白	chun hong chi bai	10
 春光明媚	chun guang ming mei	10
 春寒料峭	chun han liao qiao	10
 春和景明	chun he jing ming	10
@@ -87824,7 +87824,7 @@ sort: by_weight
 辞不达意	ci bu da yi	10
 词不达意	ci bu da yi	10
 此唱彼和	ci chang bi he	10
-刺刀见红	ci dao jian gong	10
+刺刀见红	ci dao jian hong	10
 此伏彼起	ci fu bi qi	10
 刺股悬梁	ci gu xuan liang	10
 此呼彼应	ci hu bi ying	10
@@ -87918,7 +87918,7 @@ sort: by_weight
 答非所问	da fei suo wen	10
 大风大浪	da feng da lang	10
 大腹便便	da fu bian bian	10
-大红大绿	da gong da lv	10
+大红大绿	da hong da lv	10
 大公无私	da gong wu si	10
 达官贵人	da guan gui ren	10
 达官显宦	da guan xian huan	10
@@ -88688,12 +88688,12 @@ sort: by_weight
 更胜一筹	geng sheng yi chou	10
 更有甚者	geng you shen zhe	10
 功败垂成	gong bai chui cheng	10
-红白喜事	gong bai xi shi	10
+红白喜事	hong bai xi shi	10
 公报私仇	gong bao si qiu	10
 宫本武藏	gong ben wu zang
 功成身退	gong cheng shen tui	10
 觥筹交错	gong chou jiao cuo	20
-红刀子出	gong dao zi chu	10
+红刀子出	hong dao zi chu	10
 功德无量	gong de wu liang	20
 功德圆满	gong de yuan man	10
 躬逢其盛	gong feng ji cheng	10
@@ -88707,23 +88707,23 @@ sort: by_weight
 恭贺新禧	gong he xin xi	10
 攻其不备	gong ji bu bei	10
 攻其无备	gong ji wu bei	10
-红极一时	gong ji yi shi	10
+红极一时	hong ji yi shi	10
 拱肩缩背	gong jian su bei	10
 功亏一篑	gong kui yi kui	10
-红男绿女	gong nan lv nv	10
-红情绿意	gong qing lv yi	10
-红日三竿	gong ri san gan	10
+红男绿女	hong nan lv nv	10
+红情绿意	hong qing lv yi	10
+红日三竿	hong ri san gan	10
 共商国是	gong shang guo shi	10
 公事公办	gong shi gong ban	10
 攻守同盟	gong shou tong meng	10
 拱手相让	gong shou xiang rang	10
-红衰翠减	gong shuai cui jian	10
+红衰翠减	hong shuai cui jian	10
 公私两便	gong si liang bian	10
-红头文件	gong tou wen jian	10
+红头文件	hong tou wen jian	10
 恭喜发财	gong xi fa cai	10
 共享单车	gong xiang dan ju	20
 攻心为上	gong xin wei shang	10
-红颜薄命	gong yan bao ming	10
+红颜薄命	hong yan bao ming	10
 公正廉明	gong zheng lian ming	10
 公之于世	gong zhi yu shi	10
 公之于众	gong zhi yu zhong	10
@@ -89104,7 +89104,7 @@ sort: by_weight
 画栋雕梁	hua dong diao liang	10
 华而不实	hua er bu shi	10
 话锋一转	hua feng yi zhuan	10
-花红柳绿	hua gong liu lv	10
+花红柳绿	hua hong liu lv	10
 化害为利	hua hai wei li	10
 花好月圆	hua hao yue yuan	10
 画虎类犬	hua hu lei quan	10
@@ -89715,7 +89715,7 @@ sort: by_weight
 救苦救难	jiu ku jiu nan	20
 救困扶危	jiu kun fu wei	10
 酒阑人散	jiu lan ren san	10
-酒绿灯红	jiu lv deng gong	10
+酒绿灯红	jiu lv deng hong	10
 救命之恩	jiu ming zhi en	10
 九牛二虎	jiu niu er hu	10
 九牛一毛	jiu niu yi mao	10
@@ -89805,7 +89805,7 @@ sort: by_weight
 开宗明义	kai zong ming yi	10
 看菜吃饭	kan cai chi fan	10
 坎井之蛙	kan jing zhi wa	10
-看破红尘	kan po gong chen	10
+看破红尘	kan po hong chen	10
 看人脸色	kan ren lian shai	10
 抗洪救灾	kang hong jiu zai	10
 慷慨悲歌	kang kai bei ge	10
@@ -90160,7 +90160,7 @@ sort: by_weight
 流里流气	liu li liu qi	10
 流离失所	liu li shi suo	10
 碌碌无为	liu liu wu wei	10
-柳绿花红	liu lv hua gong	10
+柳绿花红	liu lv hua hong	10
 溜门撬锁	liu men qiao suo	10
 流年不利	liu nian bu li	10
 流年似水	liu nian shi shui	10
@@ -90226,7 +90226,7 @@ sort: by_weight
 履薄临深	lv bao lin shen	10
 绿草如茵	lv cao ru yin	10
 屡次三番	lv ci san pan	10
-绿肥红瘦	lv fei gong shou	10
+绿肥红瘦	lv fei hong shou	10
 屡建奇功	lv jian ji gong	10
 屡教不改	lv jiao bu gai	10
 屡禁不绝	lv jin bu jue	10
@@ -90508,7 +90508,7 @@ sort: by_weight
 万有引力	mo you yin li	10
 莫衷一是	mo zhong yi shi	10
 万众一心	mo zhong yi xin	10
-万紫千红	mo zi qian gong	10
+万紫千红	mo zi qian hong	10
 谋财害命	mou cai hai ming	10
 谋事在人	mou shi zai ren	10
 目不交睫	mu bu jiao jie	10
@@ -90728,7 +90728,7 @@ sort: by_weight
 匹夫有责	pi fu you ze	10
 匹夫之勇	pi fu zhi yong	10
 披肝沥胆	pi gan li dan	10
-披红戴花	pi gong dai hua	10
+披红戴花	pi hong dai hua	10
 披挂上阵	pi gua shang zhen	10
 否极泰来	pi ji tai lai	10
 披坚执锐	pi jian zhi rui	10
@@ -91783,7 +91783,7 @@ sort: by_weight
 清风两袖	qing feng liang xiu	10
 清风明月	qing feng ming yue	10
 轻歌曼舞	qing ge man wu	10
-青红皂白	qing gong zao bai	10
+青红皂白	qing hong zao bai	10
 清规戒律	qing gui jie lv	10
 倾国倾城	qing guo qing cheng	10
 清华紫光	qing hua zi guang	5
@@ -92743,7 +92743,7 @@ sort: by_weight
 唐古拉山	tang gu la shan	10
 螳螂捕蝉	tang lang bu chan	10
 糖衣炮弹	tang yi bao dan	10
-桃红柳绿	tao gong liu lv	10
+桃红柳绿	tao hong liu lv	10
 韬光养晦	tao guang yang hui	10
 韬晦之计	tao hui zhi ji	10
 桃李不言	tao li bu yan	10
@@ -96442,7 +96442,7 @@ sort: by_weight
 一般见识	yi ban jian zhi	10
 一板一眼	yi ban yi yan	10
 一炮打响	yi bao da xiang	10
-一炮而红	yi bao er gong	10
+一炮而红	yi bao er hong	10
 一曝十寒	yi bao shi han	10
 一饱眼福	yi bao yan fu	10
 以暴易暴	yi bao yi bao	10
@@ -96870,7 +96870,7 @@ sort: by_weight
 有凤来仪	you feng lai yi	10
 有福同享	you fu tong xiang	10
 有根有据	you gen you ju	10
-又红又专	you gong you zhuan	10
+又红又专	you hong you zhuan	10
 忧国忧民	you guo you min	10
 游戏人间	you hu ren jian	10
 有机可乘	you ji ke cheng	10
@@ -100438,7 +100438,7 @@ sort: by_weight
 快刀斩乱麻	kuai dao zhan luan ma	10
 拉斯维加斯	la si wei jia si	10
 里约热内卢	li yue re nei lu	10
-脸红脖子粗	lian gong bo zi cu	10
+脸红脖子粗	lian hong bo zi cu	10
 临时抱佛脚	lin shi bao fo jue	10
 马达加斯加	ma da jia si jia	10
 马克思主义	ma ke si zhu yi	10
