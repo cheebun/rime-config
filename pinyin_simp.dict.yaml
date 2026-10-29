@@ -74,6 +74,7 @@ sort: by_weight
 败	bai	1469
 拜	bai	2033
 摆	bai	2364
+摆烂	bai lan	20
 百	bai	4588
 白	bai	15236
 斒	ban	0
@@ -2978,6 +2979,7 @@ sort: by_weight
 洞	dong	2922
 东	dong	8696
 懂	dong	8960
+懂王	dong wang	20
 动	dong	9465
 錖	du	0
 韇	du	0
@@ -24087,6 +24089,7 @@ sort: by_weight
 分蘖	fen nie	10
 粉皮	fen pi	10
 分片	fen pian	10
+分屏	fen ping	20
 分瓶	fen ping
 纷起	fen qi	10
 粉墙	fen qiang	10
@@ -42660,7 +42663,7 @@ sort: by_weight
 透雨	tou yu	10
 偷越	tou yue	10
 投在	tou zai	10
-透传	tou zhuan	20
+透传	tou chuan	20
 骰子	tou zi	10
 凸凹	tu ao	10
 凸版	tu ban	10
@@ -51959,6 +51962,7 @@ sort: by_weight
 价为	jia wei	106
 加为	jia wei	139
 价位	jia wei	2580
+家委会	jia wei hui	225
 加我	jia wo	966
 家务	jia wu	578
 减半	jian ban	261
